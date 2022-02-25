@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 -  Linkedin: https://pk.linkedin.com/in/muhammad-adan-nasir-83470b191
 -  Twitter: https://mobile.twitter.com/muhammad_adan__?lang=en
--  
 
 <!---
 MuhammadAdan/MuhammadAdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
