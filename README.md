@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
--  Linkedin: https://pk.linkedin.com/in/muhammad-adan-nasir-83470b191
+-  Linkedin: https://www.linkedin.com/in/muhammad-adan-nasir/
 -  Twitter: https://mobile.twitter.com/muhammad_adan__?lang=en
 
 <!---
